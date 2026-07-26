@@ -29,7 +29,7 @@ LOTO: loto7_4656_k59_loto_2950.csv
 kola: 2950
 β₀ (klasični ker L brojeva): 1
 P(anc=0) postselect ≈ 0.992296
-next_loto: [8, 22, 25, 26, 29, 31, 34]
+next_loto: [8, x, 25, y, 29, z, 34]
 
 ================================
 PLUS: loto7_4656_k59_loto_plus_1706.csv
@@ -37,5 +37,5 @@ PLUS: loto7_4656_k59_loto_plus_1706.csv
 kola: 1706
 β₀ (klasični ker L brojeva): 1
 P(anc=0) postselect ≈ 0.992332
-next_plus: [10, 11, 18, 26, 31, 34, 37]
+next_plus: [10, x, 18, y, 31, z, 37]
 """
